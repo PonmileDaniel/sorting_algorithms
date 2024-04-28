@@ -2,7 +2,7 @@
 
 /**
  * insertion_sort_list - sort a doubly list
- * @lsit: doubly linked list
+ * @list: doubly linked list
  * Return: no return
  */
 void insertion_sort_list(listint_t **list)
