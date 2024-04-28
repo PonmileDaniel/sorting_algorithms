@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * partitin - Partitions the arrays and return the index
+ * partition - Partitions the arrays and return the index
  * @array: Pointer to the first element of the array'
  * @low: Starting index of the partition to be sorted
  * @high: Ending index of the partition
@@ -59,7 +59,7 @@ void quicksort(int *array, int low, int high, size_t size)
 }
 
 /**
- * quick_sort - sort an array of integers 
+ * quick_sort - sort an array of integers
  * @array: Pointer to the first element of theh array
  * @size: Number of element
  */
